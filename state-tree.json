@@ -1,0 +1,30 @@
+{
+  "root": {
+    "id": "s0",
+    "label": "homepage",
+    "htmlFile": "homepage.html",
+    "url": "https://agecob-growth-flow.base44.app/",
+    "interaction": null,
+    "snapshotHash": "c08b7a1bbfb9dfd01a88fc5aa580b291c11f86a96f7572dd2a0f9e4e4cf273f1",
+    "children": [],
+    "interactionPath": []
+  },
+  "meta": {
+    "url": "https://agecob-growth-flow.base44.app/",
+    "createdAt": "2026-09-28T23:26:59.339Z",
+    "updatedAt": "2026-09-28T23:27:13.327Z",
+    "totalSessions": 1
+  },
+  "snapHistory": [
+    {
+      "startedAt": "2026-09-28T23:26:59.339Z",
+      "url": "https://agecob-growth-flow.base44.app/",
+      "statesAdded": 1,
+      "labels": [
+        "homepage"
+      ],
+      "mode": "auto",
+      "finishedAt": "2026-09-28T23:27:06.896Z"
+    }
+  ]
+}
